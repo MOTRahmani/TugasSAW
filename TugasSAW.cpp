@@ -48,4 +48,20 @@ int main(){
 		while (c<5);cout << endl;
 	
 	cout << endl;
+	cout << "MATRIKS R: "<< endl;
+	
+	int d=0;
+		do{
+			cout << Ra1c[d]<< " | "; d++;}
+		while (d<5);cout << endl;
+	int e=0;
+		do{
+			cout << Ra2c[e]<< " | "; e++;}
+		while (e<5);cout << endl;
+	int f=0;
+		do{
+			cout << Ra3c[f]<< " | "; f++;}
+		while (f<5);cout << endl;
+		
+	cout << endl;
 }
