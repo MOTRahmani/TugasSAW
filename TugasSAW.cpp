@@ -64,4 +64,12 @@ int main(){
 		while (f<5);cout << endl;
 		
 	cout << endl;
+	cout << "BOBOT W: "<< endl;
+	
+	int g=0;
+		do{
+			cout << w[g]<< " | "; g++;}
+		while (g<5);cout << endl;	
+	
+	cout << endl;
 }
