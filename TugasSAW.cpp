@@ -72,4 +72,18 @@ int main(){
 		while (g<5);cout << endl;	
 	
 	cout << endl;
+	cout << "MATRIKS R * W: "<< endl; 
+	
+	int h=0;
+		do{
+			cout << RWa1c[h]<< " | "; h++;}
+		while (h<5);cout << endl;
+	int i=0;
+		do{
+			cout << RWa2c[i]<< " | "; i++;}
+		while (i<5);cout << endl;
+	int j=0;
+		do{
+			cout << RWa3c[j]<< " | "; j++;}
+		while (j<5);cout << endl;
 }
