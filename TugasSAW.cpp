@@ -86,4 +86,10 @@ int main(){
 		do{
 			cout << RWa3c[j]<< " | "; j++;}
 		while (j<5);cout << endl;
+			
+	cout << endl;
+	cout << "HASIL AKHIR: "<< endl;
+	cout <<"Nilai A1 : "<<ha[0]<<endl;
+	cout <<"Nilai A2 : "<<ha[1]<<endl;
+	cout <<"Nilai A3 : "<<ha[2]<<endl;
 }
